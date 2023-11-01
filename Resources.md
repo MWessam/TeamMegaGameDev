@@ -3,7 +3,7 @@
 # C# And Software Engineering
 
 ## Beginner ##
-*[C# and Programming Basics - Arabic](https://www.youtube.com/watch?v=cKHBonYXle4&list=PLfPhfWtJ-EZUFPyyYX226Od4iOur7B06S&ab_channel=LunarDevs)
+- [C# and Programming Basics - Arabic](https://www.youtube.com/watch?v=cKHBonYXle4&list=PLfPhfWtJ-EZUFPyyYX226Od4iOur7B06S&ab_channel=LunarDevs)
 
 ## Intermediate ##
 - [OOP In C# - Arabic](https://www.youtube.com/watch?v=S4vNZ8yjVnQ&list=PLX1bW_GeBRhAfq0EsDHH4YemBAd6G-H75&ab_channel=Codographia) 
@@ -22,7 +22,7 @@
 # Unity #
 
 ## Beginner ##
-- [Unity Basics - Arabic](https://www.youtube.com/watch?v=CBYHwZcbD-s&t=1s&ab_channel=BroCode)
+- [Unity Basics - Arabic](https://www.youtube.com/watch?v=Ep5YJewHiMg&list=PLfPhfWtJ-EZVQCosT8VKLFi6Xhjg8lGtF&ab_channel=LunarDevs)
 - [Getting Started With Unity](https://www.youtube.com/watch?v=XtQMytORBmM&ab_channel=GameMaker%27sToolkit)
 
 ## Intermediate ##
