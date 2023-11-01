@@ -47,20 +47,26 @@
 - Adding post processing.
 - Unity built in packages.
 
-**Phase 7: First 2D Game (Simple game made with Unity to test your knowledge)(2 to 3 Weeks)**
+** Phase 7: Data Structures and Algorithms in Unity
+- Effective use of arrays
+- Lists
+- Dictionary
+- Stack
+- Queue
+- Trees
 
+**Phase 8: First 2D Game (Simple game made with Unity to test your knowledge)(2 to 3 Weeks)**
 - Choose theme for game.
 - Supply them with assets.
 - Making UI elements (Health, Score, etc)
 - Animations in 2D.
 
-**Phase 7: using version control(less than a week)**
-
+**Phase 9: using version control(less than a week)**
 - Git
 - GitHub
 - Unity vcs: aka Plastic
 
-**Phase 8: First 3D Game (Navmesh AI, 3D Movement, Interactable Environment)(3 to 4 Weeks)**
+**Phase 10: First 3D Game (Navmesh AI, 3D Movement, Interactable Environment)(3 to 4 Weeks)**
 
 - Choose theme for game.
 - Supply them with assets.
@@ -69,23 +75,23 @@
 - Enemy AI with Navmesh.
 - Interactable Environment.
 
-**Phase 9: Performance Optimization (Scripting, Unity Graphical Optimizations, Object Pooling) (Less than 1 week)**
+**Phase 11: Performance Optimization (Scripting, Unity Graphical Optimizations, Object Pooling) (Less than 1 week)**
 
 - Caching data.
 - Expensive operations and when to use / avoid them.
 - Instanced Mesh Rendering.
 - Object Pooling.
 
-**Phase 10: Implementing Design Patterns and SOLID Principles (Software Architecture) (2 to 3 weeks)**
+**Phase 12: Implementing Design Patterns and SOLID Principles (Software Architecture) (2 to 3 weeks)**
 
 - Learn design patterns and SOLID principles
 - Apply them in unity
 
-**Phase 11: Mega Jam(2 Weeks)**
+**Phase 13: Mega Jam(2 Weeks)**
 
 - It's a friendly competition where we give the members a theme for a game and two weeks to make it. After the two weeks, we will collect the games and rate them to determine their ranks
 
-**Phase 12: Networking using PUN(2 Weeks)**
+**Phase 14: Networking using PUN(2 Weeks)**
 -Connecting to Pun servers 
 
 - Making Room Listing
