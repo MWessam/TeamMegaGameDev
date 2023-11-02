@@ -33,3 +33,6 @@
 - https://www.youtube.com/watch?v=qUYpQ8ySkLU&ab_channel=samyam
 - https://www.youtube.com/watch?v=cy49zMBZvhg&ab_channel=samyam
 
+- ## object pool ##
+- https://www.youtube.com/watch?v=mRh2DA1Uzo8&t=1173s
+
