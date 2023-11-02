@@ -22,7 +22,7 @@
 # Unity #
 
 ## Beginner ##
-- [Unity Basics - Arabic]([https://www.youtube.com/watch?v=OV8PoYdfD5E&list=PLfPhfWtJ-EZVQCosT8VKLFi6Xhjg8lGtF&index=2])
+- [Unity Basics - Arabic](https://www.youtube.com/watch?v=OV8PoYdfD5E&list=PLfPhfWtJ-EZVQCosT8VKLFi6Xhjg8lGtF&index=2)
 - [Getting Started With Unity](https://www.youtube.com/watch?v=XtQMytORBmM&ab_channel=GameMaker%27sToolkit)
 
 ## Intermediate ##
