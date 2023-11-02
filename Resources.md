@@ -35,4 +35,9 @@
 
 - ## object pool ##
 - https://www.youtube.com/watch?v=mRh2DA1Uzo8&t=1173s
+- 
+- ## Design patterns in unity##
+- https://www.youtube.com/watch?v=OuZrhykVytg
+- https://www.youtube.com/watch?v=gx0Lt4tCDE0
+  
 
