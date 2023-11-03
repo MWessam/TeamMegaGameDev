@@ -13,10 +13,7 @@
 
 ## Advanced ##
 - [Introduction to SOLID and Design Patterns Book](https://blog.unity.com/games/level-up-your-code-with-game-programming-patterns)
-- [In depth tutorials on SOLID in Unity](https://www.youtube.com/playlist?list=PLB5_EOMkLx_WjcjrsGUXq9wpTib3NCuqg)
 - [Game Design Patterns Book](https://gameprogrammingpatterns.com/contents.html)
-- [Design Patterns in Unity](https://www.youtube.com/watch?v=V75hgcsCGOM&list=PLB5_EOMkLx_VOmnIytx37lFMiajPHppmj&ab_channel=JasonWeimann)
-- [Composition Vs Inheritance](https://www.youtube.com/watch?v=8TIkManpEu4&ab_channel=JasonWeimann)
 
 
 # Unity #
@@ -35,9 +32,13 @@
 
 - ## object pool ##
 - https://www.youtube.com/watch?v=mRh2DA1Uzo8&t=1173s
-- 
-- ## Design patterns in unity##
+
+  ## Software Engineering in Unity ##
+- [Composition Vs Inheritance](https://www.youtube.com/watch?v=8TIkManpEu4&ab_channel=JasonWeimann)
+- [In depth tutorials on SOLID in Unity](https://www.youtube.com/playlist?list=PLB5_EOMkLx_WjcjrsGUXq9wpTib3NCuqg)
+  
+- ## Design patterns in unity ##
 - https://www.youtube.com/watch?v=OuZrhykVytg
 - https://www.youtube.com/watch?v=gx0Lt4tCDE0
-  
+- [Design Patterns in Unity](https://www.youtube.com/watch?v=V75hgcsCGOM&list=PLB5_EOMkLx_VOmnIytx37lFMiajPHppmj&ab_channel=JasonWeimann)
 
