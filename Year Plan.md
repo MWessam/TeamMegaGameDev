@@ -22,16 +22,6 @@
 - Adding physics simulations.
 - Component attributes and behaviours.
 
-**Phase 4: Intro to OOP (1 Week, Optional)**
-
-- Classes
-- Objects
-- Encapsulation
-- Abstraction
-- Inheritance
-- Polymorphism
-- Interfaces
-
 **Phase 5: Scriptable Object( 1 week)**
 
 - How to create scriptable objects
@@ -47,13 +37,6 @@
 - Adding post processing.
 - Unity built in packages.
 
-** Phase 7: Data Structures and Algorithms in Unity
-- Effective use of arrays
-- Lists
-- Dictionary
-- Stack
-- Queue
-- Trees
 
 **Phase 8: First 2D Game (Simple game made with Unity to test your knowledge)(2 to 3 Weeks)**
 - Choose theme for game.
@@ -91,9 +74,4 @@
 
 - It's a friendly competition where we give the members a theme for a game and two weeks to make it. After the two weeks, we will collect the games and rate them to determine their ranks
 
-**Phase 14: Networking using PUN(2 Weeks)**
--Connecting to Pun servers 
 
-- Making Room Listing
-- instantiating players in the network
-- learning punCallPacks (RPCs , Network Envent)
