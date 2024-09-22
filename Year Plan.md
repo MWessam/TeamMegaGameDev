@@ -1,34 +1,23 @@
 
 # Year Plan
 
-**Phase 1: Basics of C# Programming and Unity (1 Week, Optional)**
+## Phase 1: Basics of Game Development Using Unity
 
-- Variables
-- Operations
-- Conditionals
-- Loops
-- Functions/Methods
+**Unity Basics**
 
-**Phase 2: Unity Basics (1 Week)**
-
-- Unity Interface (Hierarchy, Inspector, Scene View, Game View)
+- Unity Interface (Hierarchy, Inspector, Scene View, Game View, etc)
 - Basic Concepts (Gameobject, Components)
 - Detailed information on each major component and how to use them.
 
-
-**Phase 3: Gameobject Manipulation and Scripting** 
+**Unity C# Scripting** 
 - Basic Monoscripting (Monobehaviour, Script Lifecycle, Dependency Injection)
+- Basic C#
+- Basic OOP
 - Changing gameobject behaviour using scripts.
 - Adding physics simulations.
 - Component attributes and behaviours.
 
-**Phase 5: Scriptable Object( 1 week)**
-
-- How to create scriptable objects
-- What are they used for
-- Why are they important
-
-**Phase 6: Working with Assets (Sprites, 3D Models, Animations, Packages, etc) (1 Week)**
+**Unity Assets (Sprites, 3D Models, Animations, Packages, etc)**
 
 - Importing assets.
 - How to use assets and integrate them into your project.
@@ -37,41 +26,29 @@
 - Adding post processing.
 - Unity built in packages.
 
-
-**Phase 8: First 2D Game (Simple game made with Unity to test your knowledge)(2 to 3 Weeks)**
-- Choose theme for game.
-- Supply them with assets.
-- Making UI elements (Health, Score, etc)
-- Animations in 2D.
-
-**Phase 9: using version control(less than a week)**
+**Best Coding Principles**
+- Naming conventions
+- Programming principles
+- Basic overview on patterns
+  
+**Github Version Control**
 - Git
 - GitHub
-- Unity vcs: aka Plastic
+  
+**Scriptable Objects**
+- What are scriptable objects.
+- Flyweight pattern.
+- How to create scriptable objects.
 
-**Phase 10: First 3D Game (Navmesh AI, 3D Movement, Interactable Environment)(3 to 4 Weeks)**
-
-- Choose theme for game.
-- Supply them with assets.
-- 3D movements.
-- Animations in 3D
-- Enemy AI with Navmesh.
-- Interactable Environment.
-
-**Phase 11: Performance Optimization (Scripting, Unity Graphical Optimizations, Object Pooling) (Less than 1 week)**
-
+**Game AI**
+- Navmesh
+- State Machine
+  
+**Optimizations (Scripting, Unity Graphical Optimizations, Object Pooling)**
 - Caching data.
 - Expensive operations and when to use / avoid them.
 - Instanced Mesh Rendering.
 - Object Pooling.
 
-**Phase 12: Implementing Design Patterns and SOLID Principles (Software Architecture) (2 to 3 weeks)**
-
-- Learn design patterns and SOLID principles
-- Apply them in unity
-
-**Phase 13: Mega Jam(2 Weeks)**
-
-- It's a friendly competition where we give the members a theme for a game and two weeks to make it. After the two weeks, we will collect the games and rate them to determine their ranks
-
-
+## Phase 2: Project Based Learning
+**Incrementally create a 3D Game using all basics we learned and more**
